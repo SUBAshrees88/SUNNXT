@@ -1,0 +1,210 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Open Sans,sans-serif!important;
+    align-items: center;
+     background: linear-gradient(rgba(44, 44, 74, 0),rgb(28, 28, 60)),url(bgimg.jpeg); 
+   
+   position: cover; 
+}
+.close{
+    position: absolute; 
+    right: 15px;
+    top: 10px;
+    width: 20px;
+    height: 20px;
+}
+.wrapper-1{
+    width: 450px;
+    padding: 40px 45px;
+    background: #232323 0 0 no-repeat padding-box;
+    border-radius: 20px;
+    margin: 40px auto;
+    position: relative;
+    align-items: center;
+}
+.logo-img{
+    margin-bottom: 1rem; 
+    padding-left: 40%;
+}
+.wrapper h1{
+    font-size: 28px;
+    color: #fff;
+    margin-top: 0;
+    font-weight: 500;
+    text-align: center;
+}
+/* form{
+     align-items: stretch; 
+} */
+.input-box{
+   width: 100%;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-bottom: 1px solid #ffffff99;
+    border-radius: 0;
+    background-color: transparent;
+    text-align: left;
+    color: #fff;
+}
+.input{
+    width: 100%;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-bottom: 1px solid #ffffff99;
+    padding: 0.3rem;
+    background-color: transparent;
+    text-align: left;
+    letter-spacing: .05px;
+    color: #fff;
+    opacity: .6; 
+}
+.name{
+    width: 100%;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+    border: none;
+    font-size: 15px;
+    border-bottom: 1px solid #ffffff99;
+    background-color: transparent;
+    text-align: left;
+    color: #fff;
+}
+.select select{
+    width: 100%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    background: transparent;
+    color: #fff;
+    border: none;
+    border-bottom: 1px solid #ffffff99;
+}
+.select option{
+    background: #000;
+}
+.button{
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+}
+.button input[type=radio]{
+    display: none;
+}
+.button .gender{
+    border: 1px solid #fff;
+    border-radius: 27px;
+    padding: 6px 18px; 
+    float: left;
+    text-transform: uppercase;
+    margin-right: 10px;
+    color: #fff;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.place{
+    width: 100%;
+    float: left;
+}   
+.country-name{
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ffffff99;
+}
+.country-name select{
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 4px;
+    width: 95%;
+    background: transparent;
+    border: none;
+    color: #fff;
+}
+.country-name option{
+    background: #000;
+}   
+.state-name{
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ffffff99;
+}
+ .state-name select{
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 4px;
+    width: 95%;
+    border: none;
+    background: transparent;
+    color: #fff;
+ }  
+ .state-name option{
+    background: #000;
+ }
+ .checkbox{
+    width: 100%;
+    float: left;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.checkbox input[type=checkbox]{
+    float: left;
+    margin-top: 5px;
+}
+.checkbox label{
+    padding-left: 6px;
+    font-size: 11px;
+    cursor: default;
+}   
+.submit-btn{
+    width: 100%;
+    margin-top: 20px;
+    padding: 8px;
+    background: #a80929;
+    border-radius: 40px;
+    font-size: 15px;
+    color: #fff;
+    border: none;
+}
+.new-account{
+    letter-spacing: .04px;
+    color: #fff;
+    opacity: .9;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-left: 60px;    
+}
+.sign{
+    margin-top: 10px;
+}
+.signin-option{
+    font-size: 14px;
+    color: #ffdd1a;
+    padding-left: 8px;
+    padding-top: 5px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+

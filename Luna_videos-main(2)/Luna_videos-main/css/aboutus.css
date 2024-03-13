@@ -1,0 +1,36 @@
+body{
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 400;
+     font-size: 14px;
+     color: #fff;
+     background:#151522;
+}
+h1{
+    color: #ff3366;
+    border-bottom: 1px dotted;
+    padding-bottom: 10px;
+}
+p{
+    color: #CCC;
+    display: block;
+    font-size: 14px;
+    margin: 14px 0;
+}
+h3{
+    color: #CCC; 
+    border-bottom: 1px dotted; 
+    padding-bottom: 5px;
+    font: 16px 'Open Sans', sans-serif;
+    padding: 0px 0px 5px 15px;
+    position: relative;
+}
+ul{
+    display: block;
+    color: #CCC;
+}
+li{
+   padding-bottom: 0px 0px 5px; 
+   list-style:decimal; 
+   font-weight:bold;
+   font: 14px 'Open Sans', sans-serif;
+}

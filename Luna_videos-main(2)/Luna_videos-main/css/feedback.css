@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+.feedback{
+    background: #100f21;
+    color: white;
+    font-family: Open Sans,Sans-serif ;
+}
+.h1{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 0;
+}
+.textarea{
+    
+    width: 100%;
+    background: #00000026 0 0 no-repeat padding-box;
+    border: 1px solid #d6d6d680;
+    border-radius: 20px;
+    color: #fff;
+    opacity: .6;
+    resize: none;
+    padding: 6px 12px;
+    display: block;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.cancel{
+    box-shadow: 0 1px 2px #0000001c;
+    border: 1px solid #fff;
+    border-radius: 41px;
+    background: transparent;
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 12px;
+    cursor: pointer;
+}
+.send{
+    background: #a80929 0 0 no-repeat padding-box;
+    border: 1px solid #a80929;
+    box-shadow: 0 1px 2px #0000001c;
+    border-radius: 41px;
+    padding: 15px 30px;
+    color: #fff;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+p{
+    ;
+}   

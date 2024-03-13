@@ -1,0 +1,31 @@
+body{
+    background: #151522;
+    color: #ccc;
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+   color: #ff3366; 
+   border-bottom: 1px dotted; 
+   padding-bottom: 10px;
+   font-weight: bold;
+}
+h3{
+   color: #ff3366; 
+   border-bottom: 1px dotted; 
+   padding-bottom: 5px;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 16px;
+   font-weight: normal;
+   padding: 0 0 0 15px;
+   position: relative; 
+}
+li{
+   padding-bottom: 5px;
+   list-style:decimal;
+   font-weight: bold;
+   display: list-item;
+}
+p{
+    margin: 14px 0;
+}
+
